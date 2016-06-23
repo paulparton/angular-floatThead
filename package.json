@@ -1,0 +1,19 @@
+{
+  "name": "angular-floatthead",
+  "version": "0.1.1",
+  "description": "A very simple AngularJS wrapper around the awesome floatThead library",
+  "main": "angular-floatThead.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/brandon-barker/angular-floatThead.git"
+  },
+  "author": "Brandon Barker <skinty@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/brandon-barker/angular-floatThead/issues"
+  },
+  "homepage": "https://github.com/brandon-barker/angular-floatThead#readme"
+}
