@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/brandon-barker/angular-floatThead/issues"
   },
-  "homepage": "https://github.com/brandon-barker/angular-floatThead#readme"
+  "homepage": "https://github.com/brandon-barker/angular-floatThead#readme",
+  "dependencies": {
+    "floatthead": "^1.4.0"
+  }
 }
